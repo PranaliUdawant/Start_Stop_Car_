@@ -1,0 +1,27 @@
+.back{
+    background: url("./SmartBuilding.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+    width: auto;
+    height: 550px;
+}
+.road{
+    background: url("./road1.jpg");
+     width: auto;
+    height: 180px;
+}
+#img{
+    width: 150px;
+}
+.btn{
+    padding: 50px;
+    margin-left: 550px;
+}
+.btn>button{
+    background-color: yellow;
+    width: 150px;
+    padding: 20px;
+    font-size: 20px;
+    border-radius: 10px;
+}
